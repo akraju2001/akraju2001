@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 
 ## About Me
 - 💼 Full Stack Developer
-- 🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js, Figma
+- 🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, Java, C#, SQL, Angular.js, ASP.NET
 - ✨ Completed Full Stack Development Internship at Cross Hurdle Systems
 - 🎓 Completed Master's in Computer Science
 - 🧑‍💻 Certified in Java and Web Application Development
