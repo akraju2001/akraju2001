@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 
 
 ## Projects
-- [Netflix Clone](https://akraju2001.github.io/Project1/):  A Online Food Ordering Website developed with Html, CSS, JavaScript
+- [Online Food Ordering Website](https://akraju2001.github.io/Project1/):  A Online Food Ordering Website developed with Html, CSS and JavaScript
 
 ## Let's Connect!
 [![LinkedIn](https://www.linkedin.com/in/ajith-kumar-t-5ab2792a6/)
