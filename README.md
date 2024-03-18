@@ -1,3 +1,4 @@
+![MasterHead](https://raw.githubusercontent.com/anismomin/anismomin/master/fullstack.jpg)
 ## Hi there I'm Ajith Kumar👋
 Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leveraging my skills to build interactive and scalable web applications. With a strong foundation in tools like HTML, CSS, JavaScript, Java, Angular JS, Bootstrap, C#, ASP.Net and MSSQL, I aspire to merge my technical skills with a strong business sense to create impactful solutions.
 
